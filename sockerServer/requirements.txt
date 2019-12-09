@@ -1,0 +1,4 @@
+flask
+python-socketio
+flask-socketio
+redis
